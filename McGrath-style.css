@@ -1,0 +1,103 @@
+p {
+  color: darkblue;
+  font-size: 20px;
+}
+
+
+.Daytona {
+  background: lightblue;
+}
+.modern {
+  background: lightpink;
+}
+
+.Falls {
+  background: mistyrose;
+}
+
+.student {
+  background: lightcyan;
+}
+.favorite {
+  background: pink;
+}
+.Israel {
+  background: thistle;
+}
+.dog {
+  background: lightsteelblue;
+}
+
+
+/*CHANGE FONT SIZE*/
+.modern {
+    font-size: 15px;
+}
+
+/*CHANGE FONT*/
+.modern {
+    font-family: western, fantasy;
+}
+
+/*CHANGE FONT*/
+.student {
+    font-family: copperplate, fantasy;
+}
+
+/*CHANGE FONT*/
+.dog {
+    font-family: monaco, monospace;
+}
+
+
+/*CHANGE FONT COLOR*/
+.modern {
+    color: darkblue;
+}
+/*ADD A BORDER AND ROUND THE BORDER EDGES*/
+.Tucker {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+/*ADD A BORDER AND ROUND THE BORDER EDGES*/
+.Puppy {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+/*ADD A BORDER AND ROUND THE BORDER EDGES*/
+.Daytona {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+/*ADD A BORDER AND ROUND THE BORDER EDGES*/
+.Falls {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+/*ADD A BORDER AND ROUND THE BORDER EDGES*/
+.Israel {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+}
+/*STYLE A LINK*/
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: cornflowerblue;
+}
+
+/*STYLE THE WHOLE BODY*/
+body {
+  background-color: whitesmoke;
+}
+
+/*STYLE A HEADER*/
+h1 {
+  color: cornflowerblue;
+  text-align: center;
+  padding: 2px;
+  border-bottom: 5px solid white;
+  text-shadow: 1px 2px 2px black;
+}
